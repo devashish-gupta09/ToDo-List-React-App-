@@ -1,7 +1,7 @@
 {
   "name": "todo-react-app",
   "version": "0.1.0",
-  "homepage": "https://devashish-gupta09.github.io/ToDo-List-App",
+  "homepage": "https://devashish-gupta09.github.io/ToDo-List-React-App-",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
